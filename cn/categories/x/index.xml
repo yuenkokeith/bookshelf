@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X on Icarus</title>
+    <link>https://yuenkokeith.github.io/bookshelf/categories/x/</link>
+    <description>Recent content in X on Icarus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 08 Aug 2016 10:18:46 +0800</lastBuildDate>
+    <atom:link href="https://yuenkokeith.github.io/bookshelf/categories/x/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>my new post</title>
+      <link>https://yuenkokeith.github.io/bookshelf/en/post/my-new-post/</link>
+      <pubDate>Mon, 08 Aug 2016 10:18:46 +0800</pubDate>
+      
+      <guid>https://yuenkokeith.github.io/bookshelf/en/post/my-new-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>my new post</title>
+      <link>https://yuenkokeith.github.io/bookshelf/ja/post/my-new-post/</link>
+      <pubDate>Mon, 08 Aug 2016 10:18:46 +0800</pubDate>
+      
+      <guid>https://yuenkokeith.github.io/bookshelf/ja/post/my-new-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>my new post</title>
+      <link>https://yuenkokeith.github.io/bookshelf/2016/08/08/my-new-post</link>
+      <pubDate>Mon, 08 Aug 2016 10:18:46 +0800</pubDate>
+      
+      <guid>https://yuenkokeith.github.io/bookshelf/2016/08/08/my-new-post</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
