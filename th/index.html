@@ -52,7 +52,38 @@
 <div class="container">
   
 
+<script language="JavaScript" type="text/javascript">
+function jumpMenu(targ,selObj,restore){ 
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+}
+</script>
+
 	<div id="container">
+	
+		<select onchange="jumpMenu('parent',this)">
+			<option value="/bookshelf/us">
+				America
+			</option>
+			<option value="/bookshelf/hk">
+				Hong Kong
+			</option>
+			<option value="/bookshelf/cn">
+				China
+			</option>
+			<option value="/bookshelf/kr">
+				Korea
+			</option>
+			<option value="/bookshelf/in">
+				Indonseia
+			</option>
+			<option value="/bookshelf/th">
+				Thailand
+			</option>
+			<option value="/bookshelf/vn">
+				Japan
+			</option>
+		</select>
+	
 	   <header id="header">
   <div id="header-main" class="header-inner">
     <div class="outer">
@@ -85,6 +116,9 @@
           
 			  
           
+		  
+		  
+		
       </nav>
         <nav id="sub-nav">
           <div class="profile" id="profile-nav">
